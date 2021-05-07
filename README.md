@@ -8,9 +8,6 @@ This repository is created to keep track of [DeepLearning.AI TensorFlow Develope
 
 In this educational program, I got hands-on experience through 16 Python programming assignments.
 
-
----
-
 ## Learning Objectives
 * Computer Vision
 * Convolutional Neural Network
@@ -25,16 +22,12 @@ In this educational program, I got hands-on experience through 16 Python program
 * Forecasting
 * Time Series
 
----
-
 ## Table of Contents
 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning]
 2. [Convolutional Neural Networks in TensorFlow]
 3. [Natural Language Processing in TensorFlow]
 4. [Sequences, Time Series and Prediction]
-
----
 
 ## Credit
 
