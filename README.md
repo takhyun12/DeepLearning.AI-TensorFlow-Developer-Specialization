@@ -1,4 +1,4 @@
-# DeepLearning.AI TensorFlow Developer
+# TensorFlow Developer Specialization with DeepLearning.AI
 
 #### Author: Tackhyun Jung
 
