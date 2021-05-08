@@ -25,7 +25,7 @@ In this educational program, I got hands-on experience through 16 Python program
 ## Table of Contents
 
 1. [Introduction to TensorFlow for Artificial Intelligence, Machine Learning, and Deep Learning](https://github.com/takhyun12/DeepLearning.AI-TensorFlow-Developer/tree/main/Introduction%20to%20TensorFlow%20for%20Artificial%20Intelligence%2C%20Machine%20Learning%2C%20and%20Deep%20Learning)
-2. [Convolutional Neural Networks in TensorFlow]
+2. [Convolutional Neural Networks in TensorFlow](https://github.com/takhyun12/DeepLearning.AI-TensorFlow-Developer/tree/main/Convolutional%20Neural%20Networks%20in%20TensorFlow)
 3. [Natural Language Processing in TensorFlow]
 4. [Sequences, Time Series and Prediction]
 
