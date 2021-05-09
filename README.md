@@ -2,11 +2,13 @@
 
 #### Author: Tackhyun Jung
 
-#### Status: ~ing
+#### Status: Completed
 
 This repository is created to keep track of [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice) provided by Coursera. This educational program is developed by `DeepLearning.AI` and designed to teaches you applied machine learning skills with TensorFlow so you can build and train powerful models. 
 
 In this educational program, I got hands-on experience through 16 Python programming assignments.
+
+![Certificate](https://user-images.githubusercontent.com/41291493/117560122-faefd680-b0c5-11eb-83e5-0062fda7a635.png)
 
 ## Learning Objectives
 * Computer Vision
@@ -32,4 +34,4 @@ In this educational program, I got hands-on experience through 16 Python program
 ## Credit
 
 * [DeepLearning.AI TensorFlow Developer](https://www.coursera.org/professional-certificates/tensorflow-in-practice)
-* [Certification-Link]
+* [Certification-Link](https://www.coursera.org/account/accomplishments/professional-cert/7M5ZFSUFGCC8)
